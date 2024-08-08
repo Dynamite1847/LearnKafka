@@ -34,6 +34,5 @@ public class KafkaConsumerTest {
                 System.out.println(record);
             }
         }
-
     }
 }
